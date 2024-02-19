@@ -1,0 +1,53 @@
+{
+  "uid" : "f13aefb2e9339ddc",
+  "name" : "tryCreateCourrierWithoutPassword",
+  "historyId" : "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutPassword",
+  "time" : {
+    "duration" : 204
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4a3864e42bffa84",
+      "name" : "System out",
+      "source" : "a4a3864e42bffa84.txt",
+      "type" : "text/plain",
+      "size" : 5490
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "package",
+    "value" : "CreateCourrierPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f13aefb2e9339ddc.json",
+  "parameterValues" : [ ]
+}

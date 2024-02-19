@@ -1,0 +1,53 @@
+{
+  "uid" : "2386e177efa931a3",
+  "name" : "deleteNotExistingCourrier",
+  "historyId" : "DeleteCourrierTest:DeleteCourrierTest#deleteNotExistingCourrier",
+  "time" : {
+    "duration" : 221
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8affce29d17bdea1",
+      "name" : "System out",
+      "source" : "8affce29d17bdea1.txt",
+      "type" : "text/plain",
+      "size" : 289
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DeleteCourrierTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DeleteCourrierTest"
+  }, {
+    "name" : "package",
+    "value" : "DeleteCourrierTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2386e177efa931a3.json",
+  "parameterValues" : [ ]
+}

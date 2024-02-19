@@ -1,0 +1,53 @@
+{
+  "uid" : "42f1201175a9c7d8",
+  "name" : "tryCreateCourrierWithoutNameField",
+  "historyId" : "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutNameField",
+  "time" : {
+    "duration" : 189
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4a3864e42bffa84",
+      "name" : "System out",
+      "source" : "a4a3864e42bffa84.txt",
+      "type" : "text/plain",
+      "size" : 5490
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "package",
+    "value" : "CreateCourrierPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42f1201175a9c7d8.json",
+  "parameterValues" : [ ]
+}

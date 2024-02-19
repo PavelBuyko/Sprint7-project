@@ -1,0 +1,53 @@
+{
+  "uid" : "7e7dce0e7f21cfbe",
+  "name" : "getOrderlistAll",
+  "historyId" : "OrderListGetTest:OrderListGetTest#getOrderlistAll",
+  "time" : {
+    "duration" : 19011
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9328392b2a488adc",
+      "name" : "System out",
+      "source" : "9328392b2a488adc.txt",
+      "type" : "text/plain",
+      "size" : 286
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OrderListGetTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OrderListGetTest"
+  }, {
+    "name" : "package",
+    "value" : "OrderListGetTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e7dce0e7f21cfbe.json",
+  "parameterValues" : [ ]
+}

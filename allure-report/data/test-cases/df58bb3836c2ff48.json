@@ -1,0 +1,53 @@
+{
+  "uid" : "df58bb3836c2ff48",
+  "name" : "usualCourrierCreate",
+  "historyId" : "CreateCourrierPostTest:CreateCourrierPostTest#usualCourrierCreate",
+  "time" : {
+    "duration" : 172
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4a3864e42bffa84",
+      "name" : "System out",
+      "source" : "a4a3864e42bffa84.txt",
+      "type" : "text/plain",
+      "size" : 5490
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CreateCourrierPostTest"
+  }, {
+    "name" : "package",
+    "value" : "CreateCourrierPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df58bb3836c2ff48.json",
+  "parameterValues" : [ ]
+}

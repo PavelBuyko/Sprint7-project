@@ -1,0 +1,177 @@
+[ {
+  "uid" : "8d92efa52a988a11",
+  "name" : "tryCreateCourrierWithoutFirstname",
+  "time" : {
+    "duration" : 210
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9793d7de5991190",
+  "name" : "emptyPasswordAuthTest",
+  "time" : {
+    "duration" : 352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "792ad9641a56a3f3",
+  "name" : "orderColorTest[0]",
+  "time" : {
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df58bb3836c2ff48",
+  "name" : "usualCourrierCreate",
+  "time" : {
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a06492c6e0ddd3e3",
+  "name" : "baseLoginTest",
+  "time" : {
+    "duration" : 5301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e7dce0e7f21cfbe",
+  "name" : "getOrderlistAll",
+  "time" : {
+    "duration" : 19011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2386e177efa931a3",
+  "name" : "deleteNotExistingCourrier",
+  "time" : {
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4703d053d35801dc",
+  "name" : "createSameCourrier",
+  "time" : {
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98090f9714d051d8",
+  "name" : "orderColorTest[1]",
+  "time" : {
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ed72d5d6c6474ed",
+  "name" : "emptyLoginAuthTest",
+  "time" : {
+    "duration" : 355
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "248f54b344a7a416",
+  "name" : "orderColorTest[2]",
+  "time" : {
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78d3b3993cfd2cd7",
+  "name" : "noLoginAuthTest",
+  "time" : {
+    "duration" : 314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ed736624f46d27e",
+  "name" : "orderColorTest[3]",
+  "time" : {
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1090cada6151aa5a",
+  "name" : "incorrectDataLoginTest",
+  "time" : {
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42f1201175a9c7d8",
+  "name" : "tryCreateCourrierWithoutNameField",
+  "time" : {
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22e93fe317bde667",
+  "name" : "checkResponse",
+  "time" : {
+    "duration" : 247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5037479c9325c08b",
+  "name" : "deleteCourrierWithoutID",
+  "time" : {
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80733e417ec8de31",
+  "name" : "deleteCourrier",
+  "time" : {
+    "duration" : 209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20a3f7353f26593b",
+  "name" : "noPasswordAuthTest",
+  "time" : {
+    "duration" : 60493
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a13d8409c572487a",
+  "name" : "checkErrorResponseSameLogin",
+  "time" : {
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f13aefb2e9339ddc",
+  "name" : "tryCreateCourrierWithoutPassword",
+  "time" : {
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1af78ae1d1112e23",
+  "name" : "tryCreateCourrierWithoutName",
+  "time" : {
+    "duration" : 261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,378 @@
+{
+  "CourrierLoginPostTest:CourrierLoginPostTest#emptyLoginAuthTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ed72d5d6c6474ed",
+      "status" : "passed",
+      "time" : {
+        "duration" : 355
+      }
+    } ]
+  },
+  "DeleteCourrierTest:DeleteCourrierTest#deleteNotExistingCourrier" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2386e177efa931a3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 221
+      }
+    } ]
+  },
+  "MakeOrderPostTest:MakeOrderPostTest#orderColorTest[0]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "792ad9641a56a3f3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 102
+      }
+    } ]
+  },
+  "MakeOrderPostTest:MakeOrderPostTest#orderColorTest[1]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98090f9714d051d8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 105
+      }
+    } ]
+  },
+  "MakeOrderPostTest:MakeOrderPostTest#orderColorTest[2]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "248f54b344a7a416",
+      "status" : "passed",
+      "time" : {
+        "duration" : 123
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#createSameCourrier" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4703d053d35801dc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 216
+      }
+    } ]
+  },
+  "MakeOrderPostTest:MakeOrderPostTest#orderColorTest[3]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ed736624f46d27e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 136
+      }
+    } ]
+  },
+  "CourrierLoginPostTest:CourrierLoginPostTest#emptyPasswordAuthTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9793d7de5991190",
+      "status" : "passed",
+      "time" : {
+        "duration" : 352
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutPassword" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f13aefb2e9339ddc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 204
+      }
+    } ]
+  },
+  "DeleteCourrierTest:DeleteCourrierTest#deleteCourrier" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80733e417ec8de31",
+      "status" : "passed",
+      "time" : {
+        "duration" : 209
+      }
+    } ]
+  },
+  "DeleteCourrierTest:DeleteCourrierTest#deleteCourrierWithoutID" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5037479c9325c08b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 154
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#checkResponse" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22e93fe317bde667",
+      "status" : "passed",
+      "time" : {
+        "duration" : 247
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutNameField" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42f1201175a9c7d8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 189
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutFirstname" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d92efa52a988a11",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <201>.\n",
+      "time" : {
+        "duration" : 210
+      }
+    } ]
+  },
+  "CourrierLoginPostTest:CourrierLoginPostTest#noLoginAuthTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78d3b3993cfd2cd7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 314
+      }
+    } ]
+  },
+  "OrderListGetTest:OrderListGetTest#getOrderlistAll" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e7dce0e7f21cfbe",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19011
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#checkErrorResponseSameLogin" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a13d8409c572487a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 233
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#usualCourrierCreate" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df58bb3836c2ff48",
+      "status" : "passed",
+      "time" : {
+        "duration" : 172
+      }
+    } ]
+  },
+  "CourrierLoginPostTest:CourrierLoginPostTest#baseLoginTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a06492c6e0ddd3e3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 5301
+      }
+    } ]
+  },
+  "CourrierLoginPostTest:CourrierLoginPostTest#noPasswordAuthTest" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20a3f7353f26593b",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <504>.\n",
+      "time" : {
+        "duration" : 60493
+      }
+    } ]
+  },
+  "CourrierLoginPostTest:CourrierLoginPostTest#incorrectDataLoginTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1090cada6151aa5a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 288
+      }
+    } ]
+  },
+  "CreateCourrierPostTest:CreateCourrierPostTest#tryCreateCourrierWithoutName" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1af78ae1d1112e23",
+      "status" : "passed",
+      "time" : {
+        "duration" : 261
+      }
+    } ]
+  }
+}

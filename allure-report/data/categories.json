@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "1 expectation failed.\nExpected status code <400> but was <201>.\n",
+      "children" : [ {
+        "name" : "tryCreateCourrierWithoutFirstname",
+        "uid" : "8d92efa52a988a11",
+        "parentUid" : "f200dde3256cabb3c6b86e62216cfc0b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f200dde3256cabb3c6b86e62216cfc0b"
+    }, {
+      "name" : "1 expectation failed.\nExpected status code <400> but was <504>.\n",
+      "children" : [ {
+        "name" : "noPasswordAuthTest",
+        "uid" : "20a3f7353f26593b",
+        "parentUid" : "1d8f1f7a133e17931abd80cead18da26",
+        "status" : "failed",
+        "time" : {
+          "duration" : 60493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d8f1f7a133e17931abd80cead18da26"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

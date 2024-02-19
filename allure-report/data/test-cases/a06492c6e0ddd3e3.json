@@ -1,0 +1,53 @@
+{
+  "uid" : "a06492c6e0ddd3e3",
+  "name" : "baseLoginTest",
+  "historyId" : "CourrierLoginPostTest:CourrierLoginPostTest#baseLoginTest",
+  "time" : {
+    "duration" : 5301
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5e93dae426b40297",
+      "name" : "System out",
+      "source" : "5e93dae426b40297.txt",
+      "type" : "text/plain",
+      "size" : 6508
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CourrierLoginPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CourrierLoginPostTest"
+  }, {
+    "name" : "package",
+    "value" : "CourrierLoginPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a06492c6e0ddd3e3.json",
+  "parameterValues" : [ ]
+}
