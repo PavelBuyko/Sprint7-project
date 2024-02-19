@@ -1,0 +1,53 @@
+{
+  "uid" : "80733e417ec8de31",
+  "name" : "deleteCourrier",
+  "historyId" : "DeleteCourrierTest:DeleteCourrierTest#deleteCourrier",
+  "time" : {
+    "duration" : 209
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8affce29d17bdea1",
+      "name" : "System out",
+      "source" : "8affce29d17bdea1.txt",
+      "type" : "text/plain",
+      "size" : 289
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DeleteCourrierTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DeleteCourrierTest"
+  }, {
+    "name" : "package",
+    "value" : "DeleteCourrierTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80733e417ec8de31.json",
+  "parameterValues" : [ ]
+}
